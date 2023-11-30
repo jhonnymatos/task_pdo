@@ -1,0 +1,17 @@
+{
+    "name": "joaozinho/task_pdo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jhonnymatos",
+            "email": "joaovictor1218@outlook.com.br"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.5"
+    }
+}
